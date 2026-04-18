@@ -8,6 +8,16 @@ LangChain integration for [AgentOracle](https://agentoracle.co) — trust verifi
 pip install langchain-agentoracle
 ```
 
+## Feedback & Support
+
+Built something with AgentOracle? Hit an issue? We want to hear from you.
+
+- **GitHub Discussions** — questions, ideas, show and tell: [github.com/TKCollective/x402-research-skill/discussions](https://github.com/TKCollective/x402-research-skill/discussions)
+- **X / Twitter** — [@AgentOracle_AI](https://x.com/AgentOracle_AI)
+- **Issues** — bugs and feature requests: open an issue in this repo
+
+If you're evaluating AgentOracle for a project, drop a note in Discussions — we respond fast and can help with integration.
+
 ## Quick Start
 
 ```python
